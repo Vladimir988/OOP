@@ -10,8 +10,8 @@ interface Measurable
 
   const ACTIVE = 1;
 
-  abstract public function getWidth();
-  abstract public function getHeight();
+  public function getWidth();
+  public function getHeight();
 }
 
 interface Colorized
@@ -26,7 +26,7 @@ interface Visible extends Colorized
 
 class Measurer
 {
-  public function maxSize(Measurable $obj)
+  public function maxSize($obj)
   {
     return max($obj->getWidth(), $obj->getHeight());
   }
