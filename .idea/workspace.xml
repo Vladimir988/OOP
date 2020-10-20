@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2683b562-c5b8-42be-a209-d8f2a5986d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson04/theory.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson03/04/demo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson03/04/demo02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <workItem from="1603176967880" duration="1961000" />
       <workItem from="1603179847491" duration="9399000" />
       <workItem from="1603195208538" duration="136000" />
-      <workItem from="1603195350742" duration="3867000" />
+      <workItem from="1603195350742" duration="4099000" />
     </task>
     <servers />
   </component>
@@ -89,10 +87,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="742" y="0" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1603180741068" />
-    <state x="715" y="324" width="479" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603183605184">
+    <state x="715" y="324" width="508" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603206021863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="324" width="479" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603183605184" />
+    <state x="715" y="324" width="508" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603206021863" />
     <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1603192576467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
